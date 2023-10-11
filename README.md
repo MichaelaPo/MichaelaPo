@@ -14,7 +14,7 @@ I'm embarking on an exciting journey, transitioning from a storyteller in the ci
 
 [**👩‍💻 **Projects****]()
 
-Welcome to my portfolio, where I showcase my projects.   
+Welcome to [my portfolio](https://github.com/MichaelaPo/Portfolio), where I showcase my projects.   
 <br />
 
 
