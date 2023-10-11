@@ -9,7 +9,7 @@ I'm embarking on an exciting journey, transitioning from a storyteller in the ci
 
 🌱 Now, I'm delving deep into data analysis, uncovering hidden narratives within the numbers.
 
-📫 If you'd like to connect or chat about all things data, reach out to me on [LinkedIn](https://www.linkedin.com/in/michaela-popescu/)!    
+📫 If you'd like to connect or chat about all things data, reach out to me on [LinkedIn](https://www.linkedin.com/in/michaela-popescu/).    
 <br />
 
 [**👩‍💻 **Projects****]()
