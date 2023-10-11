@@ -1,4 +1,4 @@
-## Hi, I'm Michaela!👋
+[**Hi, I'm Michaela! 👋**]()
 <br />
 
 I'm embarking on an exciting journey, transitioning from a storyteller in the cinematic realm 🎬 to the world of Data Analytics 📈.
@@ -12,13 +12,13 @@ I'm embarking on an exciting journey, transitioning from a storyteller in the ci
 📫 If you'd like to connect or chat about all things data, reach out to me on [LinkedIn](https://www.linkedin.com/in/michaela-popescu/)!    
 <br />
 
-## 👩‍💻 **Projects**
+[**👩‍💻 **Projects****]()
 
 Welcome to my portfolio, where I showcase my projects.   
 <br />
 
 
-## 🛠️ **Tools**
+[**🛠️ **Tools****]()
 
 Language: Python, SQL, Excel
 <br />
